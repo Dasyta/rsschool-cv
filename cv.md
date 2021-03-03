@@ -101,4 +101,4 @@ Knowledge of languages:
  with a grammar tutor, as well as every week we set aside
  2 hours for communication in English. In addition,
  I watch TV shows and read books in English to get used to 
-*      the local vocabulary and pronunciation perception.
+ the local vocabulary and pronunciation perception.
