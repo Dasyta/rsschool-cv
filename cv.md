@@ -81,9 +81,9 @@ function squareDigits(num){
 
 Programming languages
 --------------------
-:  Java, JavaScript
+>**Java, JavaScript**
 
-: Базовые знания ** C++, assembler
+Базовые знания: C++, assembler
 
 [ref]: https://github.com/Dasyta
 ***
